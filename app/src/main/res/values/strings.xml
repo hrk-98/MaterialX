@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HK APPLICATION</string>
+    <string name="snackbar_toast"><![CDATA[Snackbar & Toast]]></string>
+    <string name="food_cafe"><![CDATA[Food & Cafe]]></string>
+</resources>
